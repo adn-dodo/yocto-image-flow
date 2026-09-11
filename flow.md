@@ -508,4 +508,3 @@ LBA 1       GPT Header
 LBA 2-33    GPT Entry Array
 ```
 
-This became important later because the BeagleV-Ahead boot layout I was testing needed a different placement for some of the bootloader and GPT data.
